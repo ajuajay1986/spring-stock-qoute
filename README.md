@@ -5,7 +5,7 @@ A Java (Spring Boot) app to get stock price and qoute using Yahoo finance API.
 ## Getting started
 In this project we have used Spring Boot, Thymeleaf, and data persistence.
 
-Once you have your new Eclipse project, you can start up your web app by right-clicking on the `StocksApplication` class in the `org.optimum.stocks` package and selecting **Run As > Spring Boot Application**. If you see an exception stack trace in the console, something went wrong. The most common issue here is that your database isn't running or not connect. Make sure it's actually running. If that's not it, try to get some hints from the stack.
+Once you have your new Eclipse project, you can start up your web app by right-clicking on the `StocksApplication` class in the `org.optimum.stocks` package and selecting **Run As > Spring Boot Application**. If you see an exception stack trace in the console, something went wrong. The most common issue here is that your database isn't running or not connect. Make sure it's actually running.
 
 Once the app starts up cleanly, point your browser at http://localhost:8080 and you should see the Stocks login page.
 
