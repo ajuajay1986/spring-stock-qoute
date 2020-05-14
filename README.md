@@ -1,5 +1,5 @@
 # Get Realtime Stock Qoute
-A Java (Spring Boot) implementation of an app to get stock price and qoute.
+A Java (Spring Boot) app to get stock price and qoute using Yahoo finance API.
 
 
 ## Getting started
