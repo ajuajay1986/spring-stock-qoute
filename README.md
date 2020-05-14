@@ -1,4 +1,4 @@
-# Realtime Stock Qoute
+# Get Realtime Stock Qoute
 A Java (Spring Boot) implementation of an app to get stock price and qoute.
 
 
