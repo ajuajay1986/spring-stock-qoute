@@ -1,3 +1,5 @@
+CREATE DATABASE stocks;  
+
 --
 -- Table structure for table `users`
 --
